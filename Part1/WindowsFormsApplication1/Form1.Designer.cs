@@ -75,7 +75,7 @@
             // 
             this.radioButton1.AutoSize = true;
             this.radioButton1.Checked = true;
-            this.radioButton1.Location = new System.Drawing.Point(15, 263);
+            this.radioButton1.Location = new System.Drawing.Point(12, 203);
             this.radioButton1.Name = "radioButton1";
             this.radioButton1.Size = new System.Drawing.Size(158, 21);
             this.radioButton1.TabIndex = 1;
@@ -87,7 +87,7 @@
             // radioButton2
             // 
             this.radioButton2.AutoSize = true;
-            this.radioButton2.Location = new System.Drawing.Point(15, 290);
+            this.radioButton2.Location = new System.Drawing.Point(12, 230);
             this.radioButton2.Name = "radioButton2";
             this.radioButton2.Size = new System.Drawing.Size(182, 21);
             this.radioButton2.TabIndex = 2;
@@ -98,7 +98,7 @@
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(12, 243);
+            this.label1.Location = new System.Drawing.Point(12, 183);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(74, 17);
             this.label1.TabIndex = 4;
@@ -123,7 +123,7 @@
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(15, 367);
+            this.button1.Location = new System.Drawing.Point(12, 257);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(226, 40);
             this.button1.TabIndex = 7;
@@ -133,7 +133,7 @@
             // 
             // button2
             // 
-            this.button2.Location = new System.Drawing.Point(15, 413);
+            this.button2.Location = new System.Drawing.Point(12, 303);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(226, 40);
             this.button2.TabIndex = 8;
@@ -148,16 +148,16 @@
             "Character",
             "Bigram",
             "Trigram"});
-            this.comboBox1.Location = new System.Drawing.Point(15, 181);
+            this.comboBox1.Location = new System.Drawing.Point(12, 151);
             this.comboBox1.Name = "comboBox1";
-            this.comboBox1.Size = new System.Drawing.Size(150, 24);
+            this.comboBox1.Size = new System.Drawing.Size(226, 24);
             this.comboBox1.TabIndex = 9;
             this.comboBox1.SelectedIndexChanged += new System.EventHandler(this.comboBox1_SelectedIndexChanged);
             // 
             // label3
             // 
             this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(15, 161);
+            this.label3.Location = new System.Drawing.Point(12, 131);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(115, 17);
             this.label3.TabIndex = 10;
@@ -201,7 +201,7 @@
             // 
             // button4
             // 
-            this.button4.Location = new System.Drawing.Point(15, 459);
+            this.button4.Location = new System.Drawing.Point(12, 349);
             this.button4.Name = "button4";
             this.button4.Size = new System.Drawing.Size(226, 40);
             this.button4.TabIndex = 14;
@@ -211,7 +211,7 @@
             // 
             // button5
             // 
-            this.button5.Location = new System.Drawing.Point(15, 505);
+            this.button5.Location = new System.Drawing.Point(12, 395);
             this.button5.Name = "button5";
             this.button5.Size = new System.Drawing.Size(226, 40);
             this.button5.TabIndex = 15;
