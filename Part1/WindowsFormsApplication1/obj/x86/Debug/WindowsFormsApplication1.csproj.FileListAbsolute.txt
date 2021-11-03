@@ -19,3 +19,13 @@ C:\Users\vlady\OneDrive\Desktop\Cybersecurity-main\Laboratory work 4\Part1\Windo
 C:\Users\vlady\OneDrive\Desktop\Cybersecurity-main\Laboratory work 4\Part1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
 C:\Users\vlady\OneDrive\Desktop\Cybersecurity-main\Laboratory work 4\Part1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
 C:\Users\vlady\OneDrive\Desktop\Cybersecurity-main\Laboratory work 4\Part1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\vlady\OneDrive\Desktop\Cyber Security\Lab4_CybSec\CybSecLabs\Part1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\vlady\OneDrive\Desktop\Cyber Security\Lab4_CybSec\CybSecLabs\Part1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\vlady\OneDrive\Desktop\Cyber Security\Lab4_CybSec\CybSecLabs\Part1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojAssemblyReference.cache
+C:\Users\vlady\OneDrive\Desktop\Cyber Security\Lab4_CybSec\CybSecLabs\Part1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\vlady\OneDrive\Desktop\Cyber Security\Lab4_CybSec\CybSecLabs\Part1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\vlady\OneDrive\Desktop\Cyber Security\Lab4_CybSec\CybSecLabs\Part1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\vlady\OneDrive\Desktop\Cyber Security\Lab4_CybSec\CybSecLabs\Part1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+C:\Users\vlady\OneDrive\Desktop\Cyber Security\Lab4_CybSec\CybSecLabs\Part1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+C:\Users\vlady\OneDrive\Desktop\Cyber Security\Lab4_CybSec\CybSecLabs\Part1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\vlady\OneDrive\Desktop\Cyber Security\Lab4_CybSec\CybSecLabs\Part1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb

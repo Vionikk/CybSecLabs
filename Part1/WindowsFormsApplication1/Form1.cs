@@ -86,7 +86,8 @@ namespace WindowsFormsApplication1
                     else
                     {
                         this.chart1.Series["Frequency"].Points.AddXY(kvp.Key.ToString(), kvp.Value);
-                        listBox1.Items.Add(kvp.Key.ToString());
+                        listBox1.Items.Add(kvp.Key.ToString() + " : " + kvp.Value.ToString());
+                        Console.WriteLine(kvp.Key.ToString() + " : " + kvp.Value.ToString());
                         iter++;
                     }
                 }

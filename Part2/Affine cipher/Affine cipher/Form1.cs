@@ -190,5 +190,15 @@ namespace Affine_cipher
             textBox3.Enabled = true;
             textBox4.Enabled = true;
         }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
