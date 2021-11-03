@@ -47,7 +47,7 @@
             // button1
             // 
             this.button1.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.button1.Location = new System.Drawing.Point(1388, 12);
+            this.button1.Location = new System.Drawing.Point(1183, 12);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(169, 54);
             this.button1.TabIndex = 1;
@@ -59,7 +59,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1569, 859);
+            this.ClientSize = new System.Drawing.Size(1364, 872);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.dataGridView1);
             this.Name = "Form2";

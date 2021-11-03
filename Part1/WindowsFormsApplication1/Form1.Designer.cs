@@ -77,10 +77,10 @@
             this.radioButton1.Checked = true;
             this.radioButton1.Location = new System.Drawing.Point(15, 263);
             this.radioButton1.Name = "radioButton1";
-            this.radioButton1.Size = new System.Drawing.Size(193, 21);
+            this.radioButton1.Size = new System.Drawing.Size(158, 21);
             this.radioButton1.TabIndex = 1;
             this.radioButton1.TabStop = true;
-            this.radioButton1.Text = "По алфавітному порядку";
+            this.radioButton1.Text = "In alphabetical order";
             this.radioButton1.UseVisualStyleBackColor = true;
             this.radioButton1.CheckedChanged += new System.EventHandler(this.radioButton1_CheckedChanged);
             // 
@@ -89,9 +89,9 @@
             this.radioButton2.AutoSize = true;
             this.radioButton2.Location = new System.Drawing.Point(15, 290);
             this.radioButton2.Name = "radioButton2";
-            this.radioButton2.Size = new System.Drawing.Size(194, 21);
+            this.radioButton2.Size = new System.Drawing.Size(182, 21);
             this.radioButton2.TabIndex = 2;
-            this.radioButton2.Text = "По частотам появи літер";
+            this.radioButton2.Text = "By frequencies of letters";
             this.radioButton2.UseVisualStyleBackColor = true;
             this.radioButton2.CheckedChanged += new System.EventHandler(this.radioButton2_CheckedChanged);
             // 
@@ -100,9 +100,9 @@
             this.label1.AutoSize = true;
             this.label1.Location = new System.Drawing.Point(12, 243);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(159, 17);
+            this.label1.Size = new System.Drawing.Size(74, 17);
             this.label1.TabIndex = 4;
-            this.label1.Text = "Відсортувати діаграму:";
+            this.label1.Text = "Sort chart:";
             // 
             // textBox1
             // 
@@ -117,9 +117,9 @@
             this.label2.AutoSize = true;
             this.label2.Location = new System.Drawing.Point(12, 37);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(130, 17);
+            this.label2.Size = new System.Drawing.Size(137, 17);
             this.label2.TabIndex = 6;
-            this.label2.Text = "Файл для аналізу:";
+            this.label2.Text = "Text file for analysis:";
             // 
             // button1
             // 
@@ -127,7 +127,7 @@
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(226, 40);
             this.button1.TabIndex = 7;
-            this.button1.Text = "Побудувати діаграму";
+            this.button1.Text = "Build chart";
             this.button1.UseVisualStyleBackColor = true;
             this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
@@ -137,7 +137,7 @@
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(226, 40);
             this.button2.TabIndex = 8;
-            this.button2.Text = "Очистити діаграму";
+            this.button2.Text = "Clear chart";
             this.button2.UseVisualStyleBackColor = true;
             this.button2.Click += new System.EventHandler(this.button2_Click);
             // 
@@ -159,9 +159,9 @@
             this.label3.AutoSize = true;
             this.label3.Location = new System.Drawing.Point(15, 161);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(90, 17);
+            this.label3.Size = new System.Drawing.Size(115, 17);
             this.label3.TabIndex = 10;
-            this.label3.Text = "Тип аналізу:";
+            this.label3.Text = "Type of analysis:";
             // 
             // openFileDialog1
             // 
@@ -173,7 +173,7 @@
             this.button3.Name = "button3";
             this.button3.Size = new System.Drawing.Size(229, 40);
             this.button3.TabIndex = 11;
-            this.button3.Text = "Відкрити файл";
+            this.button3.Text = "Open file";
             this.button3.UseVisualStyleBackColor = true;
             this.button3.Click += new System.EventHandler(this.button3_Click);
             // 
@@ -185,9 +185,9 @@
             // 
             this.listBox1.FormattingEnabled = true;
             this.listBox1.ItemHeight = 16;
-            this.listBox1.Location = new System.Drawing.Point(1509, 73);
+            this.listBox1.Location = new System.Drawing.Point(1509, 57);
             this.listBox1.Name = "listBox1";
-            this.listBox1.Size = new System.Drawing.Size(305, 516);
+            this.listBox1.Size = new System.Drawing.Size(305, 532);
             this.listBox1.TabIndex = 12;
             // 
             // label4
@@ -195,9 +195,9 @@
             this.label4.AutoSize = true;
             this.label4.Location = new System.Drawing.Point(1506, 36);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(175, 34);
+            this.label4.Size = new System.Drawing.Size(308, 17);
             this.label4.TabIndex = 13;
-            this.label4.Text = "Послідовність символів \r\nпо частотам появи літер:";
+            this.label4.Text = "Sequence of characters by frequency of letters:";
             // 
             // button4
             // 
@@ -205,7 +205,7 @@
             this.button4.Name = "button4";
             this.button4.Size = new System.Drawing.Size(226, 40);
             this.button4.TabIndex = 14;
-            this.button4.Text = "Очистити послідовність";
+            this.button4.Text = "Clear the sequence";
             this.button4.UseVisualStyleBackColor = true;
             this.button4.Click += new System.EventHandler(this.button4_Click);
             // 
@@ -215,7 +215,7 @@
             this.button5.Name = "button5";
             this.button5.Size = new System.Drawing.Size(226, 40);
             this.button5.TabIndex = 15;
-            this.button5.Text = "Побудувати матрицю біграм";
+            this.button5.Text = "Build a bigram matrix";
             this.button5.UseVisualStyleBackColor = true;
             this.button5.Click += new System.EventHandler(this.button5_Click);
             // 
